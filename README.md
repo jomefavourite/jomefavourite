@@ -7,6 +7,9 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ... Building Myself as a Web Developer
 - 🌱 I’m currently learning ... Javascript
+
+Checkout my blog, to see what I'm up to:
+https://favouritejome.hashnode.dev/
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
