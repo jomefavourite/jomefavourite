@@ -12,7 +12,7 @@ Checkout my blog, to see what I'm up to:
 <br>
 https://favouritejome.hashnode.dev/
 <br>
-Contact mw on Twitter:
+Contact me on Twitter:
 <br>
 https://twitter.com/FavouriteJome1
 <!--
