@@ -1,11 +1,11 @@
 ## Hello 👋, I'm Jome Favourite
 
-![img](https://wxdwyq.db.files.1drv.com/y4mi8dFOLR0OGYrfpNswkI8urTFU5ivDzFyjuQU2CPqu8mkERQGePCrJXB-EriW8ZsQ9lhK_a_7OviY7cO7OHTZrdNONkTlv1tMZw2a8xolNl1-Le9Eg5_f987FJ_6EbytB3Wedjm6LzTuEucJMAE2FXufyRIAiChqtyvbIH1atyWsAiIgnIw7qOFJ3N7hOs1fSY1ufO0uE2ly-EZ3VBxzD1Q?width=1200&height=630&cropmode=none)
+![gif](https://jomefavourite.github.io/Images/gif.gif)
 
-I know right! Favourite seems odd when people call my name but that's my name. You can also call me Favour but I prefer my original name.
+I know right! My name "Favourite" seems odd to call my name but that's my name. You can also call me Favour but I prefer my original name.
 
 I'm a Computer Science students based at Nigeria, interested with Web Technologies.
-I write to share the little I think I know or have been thought.
+I write to share the little I think I know or have been thought @hashnode.
 
 I'm currently:
 
@@ -26,10 +26,8 @@ Fun/weird fact about me:
 - I play games when bored (Call of Duty 🦸‍♂️)
 
 Checkout my blog, to see what I'm up to:
-<br>
-https://favouritejome.hashnode.dev/
 
-That will be all for now
+[Jome Favourite's Blog](https://favouritejome.hashnode.dev/)
 
 ## Contact me
 
