@@ -11,7 +11,7 @@ I'm currently:
 
 - Improving my skills by learning Javascript.
 
-- Improving my social skills because I'm an extrovert.
+- Improving my social skills because I'm an introvert.
 
 - Working on learning Tailwindcss.
 
