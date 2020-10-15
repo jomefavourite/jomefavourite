@@ -33,7 +33,7 @@ Checkout my blog, to see what I'm up to:
 
 If you'll like to chit-chat about Javascript or Web related stuff or on anything, reach me at:
 - [Twitter](https://twitter.com/FavouriteJome1)
-- https://img.shields.io/twitter/follow/FavouriteJome1?label=Jome%20Favourite&style=social
+- ![Twitter Follow](https://img.shields.io/twitter/follow/FavouriteJome1?label=Jome%20Favourite&style=social)
 - [Instagram](https://www.instagram.com/jomefavourite/)
 - [LinkedIn](https://www.linkedin.com/in/jome-favourite-677766184/)
 - [Facebook](https://web.facebook.com/jome.favourite)
