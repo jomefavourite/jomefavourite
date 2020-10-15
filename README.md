@@ -10,19 +10,14 @@ I write to share the little I think I know or have been thought @hashnode.
 I'm currently:
 
 - Improving my skills by learning Javascript.
-
 - Improving my social skills because I'm an introvert.
-
 - Working on learning Tailwindcss.
-
 - Participating on `#100DaysOfCode` Challenge (Follow me on Twitter to see my journey)
 
 Fun/weird fact about me:
 
 - I love music, currently listening to Faouzia.
-
 - I love watching movies and series (some might say I over watch series 😬)
-
 - I play games when bored (Call of Duty 🦸‍♂️)
 
 Checkout my blog, to see what I'm up to:
@@ -33,8 +28,6 @@ Checkout my blog, to see what I'm up to:
 
 If you'll like to chit-chat about Javascript or Web related stuff or on anything, reach me at:
 - [Twitter](https://twitter.com/FavouriteJome1)
-- ![Twitter Follow](https://img.shields.io/twitter/follow/FavouriteJome1?label=Jome%20Favourite&style=social)
-- <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/FavouriteJome1?label=Jome%20Favourite&style=social">
 - [Instagram](https://www.instagram.com/jomefavourite/)
 - [LinkedIn](https://www.linkedin.com/in/jome-favourite-677766184/)
 - [Facebook](https://web.facebook.com/jome.favourite)
