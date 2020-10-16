@@ -35,7 +35,7 @@ If you'll like to chit-chat about Javascript or Web related stuff or on anything
 
 😆 I'm everywhere
 
-## Thanks for stopping by
+## Thanks for stopping by.
 
 
 
