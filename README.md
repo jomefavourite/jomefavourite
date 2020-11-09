@@ -10,8 +10,9 @@ I write to share the little I think I know or have been thought @hashnode.
 I'm currently:
 
 - Improving my skills by learning Javascript.
-- Improving my social skills because I'm an introvert.
-- Working on learning Tailwindcss.
+- Improving my social skills.
+- Learning Tailwindcss.
+- Learning React
 - Participating on `#100DaysOfCode` Challenge (Follow me on Twitter to see my journey)
 
 Fun/weird fact about me:
