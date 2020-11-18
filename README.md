@@ -1,4 +1,4 @@
-## Hello 👋, I'm Jome Favourite
+# Hello 👋, I'm Jome Favourite
 
 ![gif](https://jomefavourite.github.io/Images/gif.gif)
 
@@ -37,7 +37,7 @@ If you'll like to chit-chat about Javascript or Web related stuff or on anything
 
 😆 I'm everywhere
 
-# 📩 Latest Blog Posts
+## 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Tips for making a Responsive Layout](https://favouritejome.hashnode.dev/tips-for-making-a-responsive-layout)
