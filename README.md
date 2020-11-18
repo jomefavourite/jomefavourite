@@ -28,6 +28,7 @@ Checkout my blog, to see what I'm up to:
 ## Contact me
 
 If you'll like to chit-chat about Javascript or Web related stuff or on anything, reach me at:
+
 - [Twitter](https://twitter.com/FavouriteJome1)
 - [Instagram](https://www.instagram.com/jomefavourite/)
 - [LinkedIn](https://www.linkedin.com/in/jome-favourite-677766184/)
@@ -36,13 +37,12 @@ If you'll like to chit-chat about Javascript or Web related stuff or on anything
 
 😆 I'm everywhere
 
-# 📩 Latest Blog Posts // You can name it whatever you want.
+# 📩 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ## Thanks for stopping by.
-
-
 
 <!--
 - 👯 I’m looking to collaborate on ...
