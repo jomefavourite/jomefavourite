@@ -36,6 +36,10 @@ If you'll like to chit-chat about Javascript or Web related stuff or on anything
 
 😆 I'm everywhere
 
+# 📩 Latest Blog Posts // You can name it whatever you want.
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Thanks for stopping by.
 
 
