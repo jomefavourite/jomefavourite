@@ -40,6 +40,11 @@ If you'll like to chit-chat about Javascript or Web related stuff or on anything
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tips for making a Responsive Layout](https://favouritejome.hashnode.dev/tips-for-making-a-responsive-layout)
+- [Promises in JavaScript: Part 2](https://favouritejome.hashnode.dev/promises-in-javascript-part-2)
+- [Promises in JavaScript: Part 1](https://favouritejome.hashnode.dev/promises-in-javascript-part-1)
+- [What I've learnt during this Lock down period and my Achievement](https://favouritejome.hashnode.dev/what-ive-learnt-during-this-lock-down-period-and-my-achievement)
+- [Asynchronous JavaScript](https://favouritejome.hashnode.dev/asynchronous-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 ## Thanks for stopping by.
