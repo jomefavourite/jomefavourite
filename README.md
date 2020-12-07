@@ -40,11 +40,11 @@ If you'll like to chit-chat about Javascript or Web related stuff or on anything
 ## 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Several Ways of Positioning Elements to the Center using  CSS](https://favouritejome.hashnode.dev/several-ways-of-positioning-elements-to-the-center-using-css)
 - [Practising React](https://favouritejome.hashnode.dev/practising-react)
 - [What's my motivation to write?](https://favouritejome.hashnode.dev/whats-my-motivation-to-write)
 - [Class, Prototype and OOP Concept Explained](https://favouritejome.hashnode.dev/class-prototype-and-oop-concept-explained)
 - [Successful blogging to Me](https://favouritejome.hashnode.dev/successful-blogging-to-me)
-- [Tips for making a Responsive Layout](https://favouritejome.hashnode.dev/tips-for-making-a-responsive-layout)
 <!-- BLOG-POST-LIST:END -->
 
 ## Thanks for stopping by.
