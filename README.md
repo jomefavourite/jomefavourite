@@ -37,7 +37,7 @@ If you'll like to chit-chat about Javascript or Web related stuff or on anything
 
 😆 I'm everywhere
 
-## 📩 Latest Blog Posts
+## 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Several Ways of Positioning Elements to the Center using  CSS](https://favouritejome.hashnode.dev/several-ways-of-positioning-elements-to-the-center-using-css)
