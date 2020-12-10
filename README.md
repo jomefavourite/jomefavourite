@@ -29,11 +29,10 @@ Checkout my blog, to see what I'm up to:
 
 If you'll like to chit-chat about Javascript or Web related stuff or on anything, reach me at:
 
-- [Twitter](https://twitter.com/FavouriteJome1)
-- [Instagram](https://www.instagram.com/jomefavourite/)
-- [LinkedIn](https://www.linkedin.com/in/jome-favourite-677766184/)
-- [Facebook](https://web.facebook.com/jome.favourite)
-- [YouTube](https://www.youtube.com/channel/UCpu-k4b78gcbMqxVARdTw4g?view_as=subscriber)
+||||||
+|-----|--------------------|--|--|--|
+|[Twitter](https://twitter.com/FavouriteJome1)|[Instagram](https://www.instagram.com/jomefavourite/)|[LinkedIn](https://www.linkedin.com/in/jome-favourite-677766184/)|[Facebook](https://web.facebook.com/jome.favourite)|[YouTube](https://www.youtube.com/channel/UCpu-k4b78gcbMqxVARdTw4g?view_as=subscriber)|
+
 
 😆 I'm everywhere
 
