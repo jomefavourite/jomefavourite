@@ -1,6 +1,8 @@
 # Hello 👋, I'm Jome Favourite
 
 ![gif](https://jomefavourite.github.io/Images/gif.gif)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/FavouriteJome1)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/favourite-jome/)
 
 I know right! My name "Favourite" seems odd to call out but that's my name. You can also call me Favour but I prefer my original name.
 
@@ -10,10 +12,7 @@ I write to share the little I think I know or have been taught @hashnode.
 I'm currently:
 
 - Improving my skills by learning Javascript.
-- Improving my social skills.
-- Learning Tailwindcss.
-- Learning React
-- Participating on `#100DaysOfCode` Challenge (Follow me on Twitter to see my journey)
+- Learning React.
 
 Fun/weird fact about me:
 
@@ -25,16 +24,7 @@ Checkout my blog, to see what I'm up to:
 
 [Jome Favourite's Blog](https://favouritejome.hashnode.dev/)
 
-## Contact me
-
-If you'll like to chit-chat about Javascript or Web related stuff or on anything, reach me at:
-
-||||||
-|-----|--------------------|--|--|--|
-|[Twitter](https://twitter.com/FavouriteJome1)|[Instagram](https://www.instagram.com/jomefavourite/)|[LinkedIn](https://www.linkedin.com/in/jome-favourite-677766184/)|[Facebook](https://web.facebook.com/jome.favourite)|[YouTube](https://www.youtube.com/channel/UCpu-k4b78gcbMqxVARdTw4g?view_as=subscriber)|
-
-
-😆 I'm everywhere
+😆 I'm everywhere.
 
 ## 📖 Latest Blog Posts
 
