@@ -20,11 +20,7 @@ Fun/weird fact about me:
 - I love watching movies and series (some might say I over watch series 😬)
 - I play games when bored (Call of Duty 🦸‍♂️)
 
-Checkout my blog, to see what I'm up to:
-
-[Jome Favourite's Blog](https://favouritejome.hashnode.dev/)
-
-😆 I'm everywhere.
+Checkout my blog, to see what I'm up to: [Jome Favourite's Blog](https://favouritejome.hashnode.dev/)
 
 ## 📖 Latest Blog Posts
 
