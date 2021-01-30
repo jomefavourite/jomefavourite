@@ -32,6 +32,8 @@ Checkout my blog, to see what I'm up to: [Jome Favourite's Blog](https://favouri
 - [What's my motivation to write?](https://favouritejome.hashnode.dev/whats-my-motivation-to-write)
 <!-- BLOG-POST-LIST:END -->
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jomefavourite-sp&show_icons=true" alt="error404-sp" /></p>
+
 ## Thanks for stopping by.
 
 <!--
