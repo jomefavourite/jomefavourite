@@ -25,11 +25,11 @@ Checkout my blog, to see what I'm up to: [Jome Favourite's Blog](https://favouri
 ## 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CGPA Result Forecaster](https://favouritejome.hashnode.dev/cgpa-result-forecaster)
 - [I'm taking a break from coding, Why?](https://favouritejome.hashnode.dev/im-taking-a-break-from-coding-why)
 - [2 months of Learning React.js and The project I worked on](https://favouritejome.hashnode.dev/2-months-of-learning-reactjs-and-the-project-i-worked-on)
 - [Several Ways of Positioning Elements to the Center using  CSS](https://favouritejome.hashnode.dev/several-ways-of-positioning-elements-to-the-center-using-css)
 - [Practising React](https://favouritejome.hashnode.dev/practising-react)
-- [What's my motivation to write?](https://favouritejome.hashnode.dev/whats-my-motivation-to-write)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jomefavourite&show_icons=true" alt="jomefavourite" /></p>
