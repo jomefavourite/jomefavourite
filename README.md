@@ -16,7 +16,6 @@ I'm currently:
 
 Fun/weird fact about me:
 
-- I love music, currently listening to Faouzia.
 - I love watching movies and series (some might say I over watch series 😬)
 - I play games when bored (Call of Duty 🦸‍♂️)
 
