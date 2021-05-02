@@ -1,8 +1,6 @@
-# Hello 👋, I'm Jome Favourite
+# Hello 👋, I'm Favourite Jome
 
-![gif](https://jomefavourite.github.io/Images/gif.gif)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/FavouriteJome1)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/favourite-jome/)
+<!-- ![gif](https://jomefavourite.github.io/Images/gif.gif) -->
 
 I know right! My name "Favourite" seems odd to call out but that's my name. You can also call me Favour but I prefer my original name.
 
@@ -13,13 +11,17 @@ I'm currently:
 
 - Improving my skills by learning Javascript.
 - Learning React.
+- Learning Node.js
 
 Fun/weird fact about me:
 
 - I love watching movies and series (some might say I over watch series 😬)
 - I play games when bored (Call of Duty 🦸‍♂️)
 
-Checkout my blog, to see what I'm up to: [Jome Favourite's Blog](https://favouritejome.hashnode.dev/)
+Checkout my blog, to see what I'm up to: [Favourite's Blog](https://favouritejome.hashnode.dev/)
+
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/FavouriteJome1)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/favourite-jome/)
 
 ## 📖 Latest Blog Posts
 
