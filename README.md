@@ -9,9 +9,7 @@ I write to share the little I think I know or have been taught @hashnode.
 
 I'm currently:
 
-- Improving my skills by learning Javascript.
-- Learning React.
-- Learning Node.js
+- Improving my skills by learning Javascript, React, Next.js
 
 Fun/weird fact about me:
 
