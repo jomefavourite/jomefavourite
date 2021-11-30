@@ -30,9 +30,6 @@ Fun/weird fact about me:
 
 Checkout my blog, to see what I'm up to: [Favourite's Blog](https://favouritejome.hashnode.dev/)
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/FavouriteJome1)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/favourite-jome/)
-
 ## 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
