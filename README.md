@@ -32,8 +32,8 @@ Checkout my blog, to see what I'm up to: [Favourite's Blog](https://favouritejom
 
 ## 📖 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jomefavourite&show_icons=true" alt="jomefavourite" /></p>
 
