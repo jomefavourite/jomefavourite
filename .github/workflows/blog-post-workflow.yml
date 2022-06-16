@@ -16,9 +16,8 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: 'favourite'
-          COUNT: 5
-          STYLE: "blog-left"
-          BLOG_URL: 'https://favouritejome.hashnode.dev'
+          USERNAME: 'your-username' # Hashnode Username
+          BLOG_URL: 'your-blog-url' # Blog URL
+          COUNT: 10 # MAX Visisble
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
