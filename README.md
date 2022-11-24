@@ -19,9 +19,9 @@ I know right! My name "Favourite" seems odd to call out but that's my name. You 
 I'm a Computer Science student based at Nigeria, interested with Web Technologies.
 I write to share the little I think I know or have been taught @hashnode.
 
-I'm currently:
+<!-- I'm currently:
 
-- Improving my skills by learning Javascript, React, Next.js
+- Improving my skills by learning Javascript, React, Next.js -->
 
 Fun/weird fact about me:
 
