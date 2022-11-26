@@ -17,7 +17,7 @@
 I know right! My name "Favourite" seems odd to call out but that's my name. You can also call me Favour but I prefer my original name.
 
 I'm a Computer Science student based at Nigeria, interested with Web Technologies.
-I write to share the little I think I know or have been taught @hashnode.
+I write to share the little I think I know or learning @hashnode.
 
 <!-- I'm currently:
 
