@@ -14,21 +14,18 @@
 
 <!-- ![gif](https://jomefavourite.github.io/Images/gif.gif) -->
 
-I know right! My name "Favourite" seems odd to call out but that's my name. You can also call me Favour but I prefer my original name.
+A frontend developer who create interactive web applications using frontend technologies, keeping in mind the user experience and the best web standards.
+Also I love learning about new technologies and sharing my own knowledge with others.
 
-I'm a Computer Science student based at Nigeria, interested with Web Technologies.
-I write to share the little I think I know or learning @hashnode.
+Fact about me:
 
-<!-- I'm currently:
-
-- Improving my skills by learning Javascript, React, Next.js -->
-
-Fun/weird fact about me:
-
-- I love watching movies and series (some might say I over watch series 😬)
-- I play games when bored (Call of Duty 🦸‍♂️)
-
-Checkout my blog, to see what I'm up to: [Favourite's Blog](https://favouritejome.hashnode.dev/)
+- 🌱 I’m currently improving my skills on TypeScript, React, Next.js
+- 👯 I’m looking to collaborate on projects, technical writing gigs
+- 👨‍💻 All of my projects are available at Github
+- 📝 I share my thoughts and learnings by writing articles on Hashnode @ [Favourite's Blog](https://favouritejome.hashnode.dev/)
+- 💬 Ask me about Front End development, Technical writing
+- 📫 You can reach me at <a href="mailto:jfjomefavourite@gmail.com">jfjomefavourite@gmail.com</a>, or send me a DM on Twitter
+- ⚡ I love watching movies and series (some might say I over watch series 😬)
 
 ## 📖 Latest Blog Posts
 
