@@ -19,7 +19,7 @@ Also I love learning about new technologies and sharing my own knowledge with ot
 
 Fact about me:
 
-- 🌱 I’m currently improving my skills on TypeScript, React, Next.js
+- 🌱 I’m currently improving my skills on TypeScript, React, React Native, Next.js
 - 👯 I’m looking to collaborate on projects, technical writing gigs
 - 👨‍💻 All of my projects are available at Github
 - 📝 I share my thoughts and learnings by writing articles on Hashnode @ [Favourite's Blog](https://favouritejome.hashnode.dev/)
