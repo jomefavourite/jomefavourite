@@ -30,16 +30,16 @@ Fact about me:
 ## 📖 Latest Blog Posts
 
 <!-- HASHNODE_BLOG:START -->
+- [Why learn Next.js if I already know React.js?](favouritejome.hashnode.dev/why-learn-nextjs-if-i-already-know-reactjs)
+- [Overcoming Challenges When Moving from Create React App (CRA) to Vite: Debugging Tips](favouritejome.hashnode.dev/overcoming-challenges-when-moving-from-create-react-app-cra-to-vite-debugging-tips)
+- [4 Features in VSCode I use to speed up my Workflow](favouritejome.hashnode.dev/4-features-in-vscode-i-use-to-speed-up-my-workflow)
+- [Let's build a Calculator App (React Native)](favouritejome.hashnode.dev/lets-build-a-calculator-app-react-native)
+- [First look at the GitHub CLI](favouritejome.hashnode.dev/first-look-at-the-github-cli)
 - [First Internship Journey as a Front-End Developer and What I've Learnt](favouritejome.hashnode.dev/first-internship-journey-as-a-front-end-developer-and-what-ive-learnt)
 - [Let's build Windows 11 dropdown menu using Radix Primitives](favouritejome.hashnode.dev/lets-build-windows-11-dropdown-menu-using-radix-primitives)
 - [VS Code Version Control: Understanding the basics of  Git operations # 1](favouritejome.hashnode.dev/vs-code-version-control-understanding-the-basics-of-git-operations-1)
 - [Introducing PlanDone - Getting plans done](favouritejome.hashnode.dev/introducing-plandone-getting-plans-done)
 - [Let's build a Rich Text Editor using CKEditor5](favouritejome.hashnode.dev/lets-build-a-rich-text-editor-using-ckeditor5)
-- [My Experiences at Side Hustle Internship](favouritejome.hashnode.dev/my-experiences-at-side-hustle-internship)
-- [The World of Programming Paradigms](favouritejome.hashnode.dev/the-world-of-programming-paradigms)
-- [Let's build a Multi-coloured Card Component using Sass/SCSS](favouritejome.hashnode.dev/lets-build-a-multi-coloured-card-component-using-sass)
-- [Let's build a Custom Search Filter using JavaScript](favouritejome.hashnode.dev/lets-build-a-custom-search-filter-using-javascript)
-- [Let's build a game using JavaScript](favouritejome.hashnode.dev/lets-build-a-game-using-javascript)
 <!-- HASHNODE_BLOG:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jomefavourite&show_icons=true" alt="jomefavourite" /></p>
