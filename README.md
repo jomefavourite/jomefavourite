@@ -2,7 +2,7 @@
 <h1 align="center"> Hello 👋 , I'm Favourite Jome</h1>
 
 <div align="center" dir="auto">
-<a href="https://favouritejome.site/" rel="nofollow"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" data-canonical-src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&amp;?style=for-the-badge&amp;?color=ff69b4 alt=" style="max-width: 100%;"></a>&nbsp;
+<a href="https://favouritejome.dev/" rel="nofollow"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" data-canonical-src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&amp;?style=for-the-badge&amp;?color=ff69b4 alt=" style="max-width: 100%;"></a>&nbsp;
 <a href="https://twitter.com/favouritejome1" rel="nofollow"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" data-canonical-src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;
 <a href="https://blog.favouritejome.dev" rel="nofollow"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&amp;logo=hashnode&amp;logoColor=white" data-canonical-src="" alt="" style="max-width: 100%;"></a>&nbsp;
 <a href="https://www.linkedin.com/in/favourite-jome-677766184/" rel="nofollow">
