@@ -14,18 +14,8 @@
 
 <!-- ![gif](https://jomefavourite.github.io/Images/gif.gif) -->
 
-A frontend developer who create interactive web applications using frontend technologies, keeping in mind the user experience and the best web standards.
-Also I love learning about new technologies and sharing my own knowledge with others.
+A Software Engineer focused on building reliable systems, great developer tooling, and seamless user experiences.
 
-Fact about me:
-
-- 🌱 I’m currently improving my skills on TypeScript, React, React Native, Next.js
-- 👯 I’m looking to collaborate on projects, technical writing gigs
-- 👨‍💻 All of my projects are available at Github
-- 📝 I share my thoughts and learnings by writing articles on Hashnode @ [Favourite's Blog](https://favouritejome.hashnode.dev/)
-- 💬 Ask me about Front End development, Technical writing
-- 📫 You can reach me at <a href="mailto:jfjomefavourite@gmail.com">jfjomefavourite@gmail.com</a>, or send me a DM on Twitter
-- ⚡ I love watching movies and series (some might say I over watch series 😬)
 
 ## 📖 Latest Blog Posts
 
