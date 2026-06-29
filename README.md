@@ -32,8 +32,6 @@ A Software Engineer focused on building reliable systems, great developer toolin
 - [Let's build a Rich Text Editor using CKEditor5](favouritejome.hashnode.dev/lets-build-a-rich-text-editor-using-ckeditor5)
 <!-- HASHNODE_BLOG:END -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jomefavourite&show_icons=true" alt="jomefavourite" /></p>
-
 ## Thanks for stopping by.
 
 <!--
